@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" total="8" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[About to begin executing Suite Suite]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.openBrowser]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.openBrowser]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing Test Test]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.intialiseReports]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.intialiseReports]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : URLBrowserTest.verifyBrowserOpen]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : URLBrowserTest.verifyBrowserOpen]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.focus.testcases.URLBrowserTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : URLBrowserTest.checkLoginPageTitleByURLInputInBrowser]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : URLBrowserTest.checkLoginPageTitleByURLInputInBrowser]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.focus.testcases.URLBrowserTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : DesignWorkFlowOptionsTest.checkCD]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : DesignWorkFlowOptionsTest.checkCD]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.focus.testcases.DesignWorkFlowOptionsTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.focus.testcases.DesignWorkFlowOptionsTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithDifferentItem]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithDifferentItem]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.focus.testcases.DesignWorkFlowOptionsTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem1]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem1]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.focus.testcases.DesignWorkFlowOptionsTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Failed]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionOnEditing]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionOnEditing]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.focus.testcases.DesignWorkFlowOptionsTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Failed]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : DesignWorkFlowOptionsTest.checkLogout]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : DesignWorkFlowOptionsTest.checkLogout]]>
+    </line>
+    <line>
+      <![CDATA[Test Method resides in com.focus.testcases.DesignWorkFlowOptionsTest]]>
+    </line>
+    <line>
+      <![CDATA[Test Status: Pass]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+    </line>
+    <line>
+      <![CDATA[About to begin executing following method : BaseEngine.generateReports]]>
+    </line>
+    <line>
+      <![CDATA[Completed executing following method : BaseEngine.generateReports]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="917359" started-at="2022-12-23T10:28:06Z" finished-at="2022-12-23T10:43:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="917359" started-at="2022-12-23T10:28:06Z" finished-at="2022-12-23T10:43:24Z">
+      <class name="com.focus.testcases.DesignWorkFlowOptionsTest">
+        <test-method status="PASS" signature="checkCD()[pri:100, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="checkCD" duration-ms="19643" started-at="2022-12-23T15:58:24Z" finished-at="2022-12-23T15:58:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : DesignWorkFlowOptionsTest.checkCD]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in com.focus.testcases.DesignWorkFlowOptionsTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCD -->
+        <test-method status="PASS" signature="beforeMethodExecution(java.lang.reflect.Method)[pri:0, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="beforeMethodExecution" is-config="true" duration-ms="0" started-at="2022-12-23T15:58:24Z" finished-at="2022-12-23T15:58:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.focus.testcases.DesignWorkFlowOptionsTest.checkCD() throws java.lang.NullPointerException,java.io.IOException,java.lang.InterruptedException,org.apache.poi.EncryptedDocumentException,org.apache.poi.openxml4j.exceptions.InvalidFormatException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExecution -->
+        <test-method status="PASS" signature="beforeMethodExecution(java.lang.reflect.Method)[pri:0, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="beforeMethodExecution" is-config="true" duration-ms="1" started-at="2022-12-23T15:58:44Z" finished-at="2022-12-23T15:58:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.focus.testcases.DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem() throws java.lang.NullPointerException,java.io.IOException,java.lang.InterruptedException,org.apache.poi.EncryptedDocumentException,org.apache.poi.openxml4j.exceptions.InvalidFormatException,java.awt.AWTException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExecution -->
+        <test-method status="PASS" signature="afterMethodExecution(org.testng.ITestResult)[pri:0, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="afterMethodExecution" is-config="true" duration-ms="0" started-at="2022-12-23T15:58:44Z" finished-at="2022-12-23T15:58:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkCD status=SUCCESS method=DesignWorkFlowOptionsTest.checkCD()[pri:100, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d] output=Completed executing following method : DesignWorkFlowOptionsTest.checkCD]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethodExecution -->
+        <test-method status="PASS" signature="checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem()[pri:1062, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem" duration-ms="182614" started-at="2022-12-23T15:58:44Z" finished-at="2022-12-23T16:01:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in com.focus.testcases.DesignWorkFlowOptionsTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem -->
+        <test-method status="PASS" signature="afterMethodExecution(org.testng.ITestResult)[pri:0, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="afterMethodExecution" is-config="true" duration-ms="1" started-at="2022-12-23T16:01:46Z" finished-at="2022-12-23T16:01:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem status=SUCCESS method=DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem()[pri:1062, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d] output=Completed executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethodExecution -->
+        <test-method status="PASS" signature="beforeMethodExecution(java.lang.reflect.Method)[pri:0, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="beforeMethodExecution" is-config="true" duration-ms="0" started-at="2022-12-23T16:01:46Z" finished-at="2022-12-23T16:01:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.focus.testcases.DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithDifferentItem() throws java.lang.NullPointerException,java.io.IOException,java.lang.InterruptedException,org.apache.poi.EncryptedDocumentException,org.apache.poi.openxml4j.exceptions.InvalidFormatException,java.awt.AWTException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExecution -->
+        <test-method status="PASS" signature="checkCannotExceedTheBaseValueOptionForMultipleRowsWithDifferentItem()[pri:1063, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="checkCannotExceedTheBaseValueOptionForMultipleRowsWithDifferentItem" duration-ms="316569" started-at="2022-12-23T16:01:46Z" finished-at="2022-12-23T16:07:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithDifferentItem]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in com.focus.testcases.DesignWorkFlowOptionsTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCannotExceedTheBaseValueOptionForMultipleRowsWithDifferentItem -->
+        <test-method status="PASS" signature="beforeMethodExecution(java.lang.reflect.Method)[pri:0, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="beforeMethodExecution" is-config="true" duration-ms="1" started-at="2022-12-23T16:07:03Z" finished-at="2022-12-23T16:07:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.focus.testcases.DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem1() throws java.lang.NullPointerException,java.io.IOException,java.lang.InterruptedException,org.apache.poi.EncryptedDocumentException,org.apache.poi.openxml4j.exceptions.InvalidFormatException,java.awt.AWTException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExecution -->
+        <test-method status="PASS" signature="afterMethodExecution(org.testng.ITestResult)[pri:0, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="afterMethodExecution" is-config="true" duration-ms="0" started-at="2022-12-23T16:07:03Z" finished-at="2022-12-23T16:07:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkCannotExceedTheBaseValueOptionForMultipleRowsWithDifferentItem status=SUCCESS method=DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithDifferentItem()[pri:1063, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d] output=Completed executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithDifferentItem]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethodExecution -->
+        <test-method status="FAIL" signature="checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem1()[pri:1064, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem1" duration-ms="229009" started-at="2022-12-23T16:07:03Z" finished-at="2022-12-23T16:10:52Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:305)
+	at org.testng.Assert.assertEquals(Assert.java:315)
+	at com.focus.testcases.DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem1(DesignWorkFlowOptionsTest.java:575)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem1]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in com.focus.testcases.DesignWorkFlowOptionsTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Failed]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem1 -->
+        <test-method status="PASS" signature="afterMethodExecution(org.testng.ITestResult)[pri:0, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="afterMethodExecution" is-config="true" duration-ms="157" started-at="2022-12-23T16:10:52Z" finished-at="2022-12-23T16:10:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem1 status=FAILURE method=DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem1()[pri:1064, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d] output=Completed executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionForMultipleRowsWithSameItem1]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethodExecution -->
+        <test-method status="FAIL" signature="checkCannotExceedTheBaseValueOptionOnEditing()[pri:1065, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="checkCannotExceedTheBaseValueOptionOnEditing" duration-ms="142191" started-at="2022-12-23T16:10:52Z" finished-at="2022-12-23T16:13:14Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:305)
+	at org.testng.Assert.assertEquals(Assert.java:315)
+	at com.focus.testcases.DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionOnEditing(DesignWorkFlowOptionsTest.java:582)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionOnEditing]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in com.focus.testcases.DesignWorkFlowOptionsTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Failed]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCannotExceedTheBaseValueOptionOnEditing -->
+        <test-method status="PASS" signature="beforeMethodExecution(java.lang.reflect.Method)[pri:0, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="beforeMethodExecution" is-config="true" duration-ms="0" started-at="2022-12-23T16:10:52Z" finished-at="2022-12-23T16:10:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.focus.testcases.DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionOnEditing() throws java.lang.NullPointerException,java.io.IOException,java.lang.InterruptedException,org.apache.poi.EncryptedDocumentException,org.apache.poi.openxml4j.exceptions.InvalidFormatException,java.awt.AWTException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExecution -->
+        <test-method status="PASS" signature="afterMethodExecution(org.testng.ITestResult)[pri:0, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="afterMethodExecution" is-config="true" duration-ms="1644" started-at="2022-12-23T16:13:14Z" finished-at="2022-12-23T16:13:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkCannotExceedTheBaseValueOptionOnEditing status=FAILURE method=DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionOnEditing()[pri:1065, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d] output=Completed executing following method : DesignWorkFlowOptionsTest.checkCannotExceedTheBaseValueOptionOnEditing]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethodExecution -->
+        <test-method status="PASS" signature="beforeMethodExecution(java.lang.reflect.Method)[pri:0, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="beforeMethodExecution" is-config="true" duration-ms="1" started-at="2022-12-23T16:13:16Z" finished-at="2022-12-23T16:13:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.focus.testcases.DesignWorkFlowOptionsTest.checkLogout() throws java.lang.NullPointerException,java.io.IOException,java.lang.InterruptedException,org.apache.poi.EncryptedDocumentException,org.apache.poi.openxml4j.exceptions.InvalidFormatException,java.awt.AWTException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExecution -->
+        <test-method status="PASS" signature="checkLogout()[pri:2000, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="checkLogout" duration-ms="7381" started-at="2022-12-23T16:13:16Z" finished-at="2022-12-23T16:13:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : DesignWorkFlowOptionsTest.checkLogout]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in com.focus.testcases.DesignWorkFlowOptionsTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkLogout -->
+        <test-method status="PASS" signature="afterMethodExecution(org.testng.ITestResult)[pri:0, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d]" name="afterMethodExecution" is-config="true" duration-ms="0" started-at="2022-12-23T16:13:23Z" finished-at="2022-12-23T16:13:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkLogout status=SUCCESS method=DesignWorkFlowOptionsTest.checkLogout()[pri:2000, instance:com.focus.testcases.DesignWorkFlowOptionsTest@47ef968d] output=Completed executing following method : DesignWorkFlowOptionsTest.checkLogout]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethodExecution -->
+      </class> <!-- com.focus.testcases.DesignWorkFlowOptionsTest -->
+      <class name="com.focus.testcases.URLBrowserTest">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:com.focus.testcases.URLBrowserTest@5bc79255]" name="openBrowser" is-config="true" duration-ms="3914" started-at="2022-12-23T15:58:02Z" finished-at="2022-12-23T15:58:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.openBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="intialiseReports()[pri:0, instance:com.focus.testcases.URLBrowserTest@5bc79255]" name="intialiseReports" is-config="true" duration-ms="235" started-at="2022-12-23T15:58:06Z" finished-at="2022-12-23T15:58:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.intialiseReports]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- intialiseReports -->
+        <test-method status="PASS" signature="beforeMethodExecution(java.lang.reflect.Method)[pri:0, instance:com.focus.testcases.URLBrowserTest@5bc79255]" name="beforeMethodExecution" is-config="true" duration-ms="4" started-at="2022-12-23T15:58:07Z" finished-at="2022-12-23T15:58:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.focus.testcases.URLBrowserTest.verifyBrowserOpen() throws org.apache.poi.EncryptedDocumentException,org.apache.poi.openxml4j.exceptions.InvalidFormatException,java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExecution -->
+        <test-method status="PASS" signature="verifyBrowserOpen()[pri:1, instance:com.focus.testcases.URLBrowserTest@5bc79255]" name="verifyBrowserOpen" duration-ms="10439" started-at="2022-12-23T15:58:07Z" finished-at="2022-12-23T15:58:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : URLBrowserTest.verifyBrowserOpen]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in com.focus.testcases.URLBrowserTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyBrowserOpen -->
+        <test-method status="PASS" signature="afterMethodExecution(org.testng.ITestResult)[pri:0, instance:com.focus.testcases.URLBrowserTest@5bc79255]" name="afterMethodExecution" is-config="true" duration-ms="1" started-at="2022-12-23T15:58:17Z" finished-at="2022-12-23T15:58:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyBrowserOpen status=SUCCESS method=URLBrowserTest.verifyBrowserOpen()[pri:1, instance:com.focus.testcases.URLBrowserTest@5bc79255] output=Completed executing following method : URLBrowserTest.verifyBrowserOpen]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethodExecution -->
+        <test-method status="PASS" signature="beforeMethodExecution(java.lang.reflect.Method)[pri:0, instance:com.focus.testcases.URLBrowserTest@5bc79255]" name="beforeMethodExecution" is-config="true" duration-ms="1" started-at="2022-12-23T15:58:17Z" finished-at="2022-12-23T15:58:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.focus.testcases.URLBrowserTest.checkLoginPageTitleByURLInputInBrowser() throws org.apache.poi.EncryptedDocumentException,org.apache.poi.openxml4j.exceptions.InvalidFormatException,java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.beforeMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExecution -->
+        <test-method status="PASS" signature="checkLoginPageTitleByURLInputInBrowser()[pri:2, instance:com.focus.testcases.URLBrowserTest@5bc79255]" name="checkLoginPageTitleByURLInputInBrowser" duration-ms="6933" started-at="2022-12-23T15:58:17Z" finished-at="2022-12-23T15:58:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : URLBrowserTest.checkLoginPageTitleByURLInputInBrowser]]>
+            </line>
+            <line>
+              <![CDATA[Test Method resides in com.focus.testcases.URLBrowserTest]]>
+            </line>
+            <line>
+              <![CDATA[Test Status: Pass]]>
+            </line>
+            <line>
+              <![CDATA[About to begin executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkLoginPageTitleByURLInputInBrowser -->
+        <test-method status="PASS" signature="afterMethodExecution(org.testng.ITestResult)[pri:0, instance:com.focus.testcases.URLBrowserTest@5bc79255]" name="afterMethodExecution" is-config="true" duration-ms="0" started-at="2022-12-23T15:58:24Z" finished-at="2022-12-23T15:58:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkLoginPageTitleByURLInputInBrowser status=SUCCESS method=URLBrowserTest.checkLoginPageTitleByURLInputInBrowser()[pri:2, instance:com.focus.testcases.URLBrowserTest@5bc79255] output=Completed executing following method : URLBrowserTest.checkLoginPageTitleByURLInputInBrowser]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.afterMethodExecution]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethodExecution -->
+        <test-method status="PASS" signature="generateReports()[pri:0, instance:com.focus.testcases.URLBrowserTest@5bc79255]" name="generateReports" is-config="true" duration-ms="494" started-at="2022-12-23T16:13:23Z" finished-at="2022-12-23T16:13:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Completed executing following method : BaseEngine.generateReports]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- generateReports -->
+      </class> <!-- com.focus.testcases.URLBrowserTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
